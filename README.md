@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @1801142494
-- 👀 I’m just started learning programming
-- 🌱 I’m currently learning c#
+- 👋 Hi, I’m Changchun
+- 👀 I’m Front-end Developer
+- 🌱  I am so much Front-end Developer Because I think it's very interesting
 
 
 <!---
