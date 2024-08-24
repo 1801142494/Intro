@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Changchun
-- 👀 I’m Front-end Developer
-- 🌱  I am so much Front-end Developer Because I think it's very interesting
+- 👀 I’m a Web Developer
+- 🌱 I think web development is interesting
+-     Welcome to communicate with me
+-     MyEmail：1801142494@qq.com
 
 
 <!---
